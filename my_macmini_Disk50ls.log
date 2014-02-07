@@ -1,0 +1,26 @@
+total 19949776
+drwxrwxr-x   27 root        admin         986  2  7 13:46 .
+drwxr-xr-x@   4 root        admin         136  2  5 17:30 ..
+-rw-r--r--@   1 songrack    admin        6148  2  4 11:21 .DS_Store
+d--x--x--x    8 root        wheel         272  1 24 11:37 .DocumentRevisions-V100
+drwx------    5 root        admin         170  1 23 10:26 .Spotlight-V100
+drwxrwxrwt@   4 root        admin         136  1 23 13:45 .TemporaryItems
+d-wx-wx-wt    4 root        staff         136  1 21 11:09 .Trashes
+drwx------  138 root        admin        4692  2  5 17:26 .fseventsd
+drwxrwx---@  14 songrack    staff         476  1 21 11:04 ANDROID_SDK
+drwxrwxr-x    5 programmer  staff         170  1 20 10:32 AppKey
+-rw-rw-r--    1 programmer  staff   480050991  4 23  2013 BookSrc.zip
+-rw-rw-r--    1 programmer  staff    40156896  5  9  2013 DevSng.zip
+-rw-rw-r--    1 programmer  staff    58991268  5 20  2013 Dream.zip
+-rw-rw-r--    1 programmer  staff  5582455100 10 12  2012 EMJ-Projects.zip
+-rw-rw-r--    1 programmer  staff    90696754  1 15 10:27 GoldenBell.zip
+-rw-rw-r--    1 programmer  staff  3961853551  1 15 10:10 eBOOK_Document.zip
+drwxrwxr-x   16 programmer  staff         544  2  5 14:55 workATest
+drwxrwxr-x    3 programmer  staff         102  1 20 10:32 workEMJ
+drwxrwxr-x   19 programmer  staff         646  1 21 10:57 workEclipse
+drwxrwxr-x    4 programmer  staff         136  2  7 14:44 workGit
+drwxrwxr-x    5 programmer  staff         170  1 17 16:30 workInstall
+drwxrwxr-x    8 programmer  staff         272  1 27 13:31 workResources
+drwxrwxrwx    6 songrack    admin         204  1 22 09:04 workShared
+drwxrwxr-x   23 programmer  staff         782  2  6 09:44 workXcode
+-rwxrwxrwx    1 programmer  staff       58368  1 20 13:11 year_last_money.hwp
