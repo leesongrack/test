@@ -1,0 +1,65 @@
+Apple_PubSub_Socket_Render=/tmp/launch-3yMfUi/Render
+Apple_Ubiquity_Message=/tmp/launch-4Xd0ZZ/Apple_Ubiquity_Message
+BASH=/bin/bash
+BASH_ARGC=()
+BASH_ARGV=()
+BASH_LINENO=()
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="3" [1]="2" [2]="48" [3]="1" [4]="release" [5]="x86_64-apple-darwin12")
+BASH_VERSION='3.2.48(1)-release'
+CC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+CLICOLOR=1
+COLUMNS=120
+COMMAND_MODE=unix2003
+CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++
+DIRSTACK=()
+EUID=502
+GROUPS=()
+HISTFILE=/Users/programmer/.bash_history
+HISTFILESIZE=500
+HISTSIZE=500
+HOME=/Users/programmer
+HOSTNAME=songrackui-Mac-mini.local
+HOSTTYPE=x86_64
+IFS=$' \t\n'
+LANG=ko_KR.UTF-8
+LINES=60
+LOGNAME=programmer
+LSCOLORS=ExFxCxDxBxegedabagacad
+MACHTYPE=x86_64-apple-darwin12
+MAILCHECK=60
+OBJC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+OLDPWD=/Volumes/Disk50/workGit
+OPTERR=1
+OPTIND=1
+OSTYPE=darwin12
+PATH=/opt/local/bin:/opt/local/sbin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
+PIPESTATUS=([0]="0")
+PPID=586
+PROMPT_COMMAND='update_terminal_cwd; '
+PS1='\h:\W \u\$ '
+PS2='> '
+PS4='+ '
+PWD=/Volumes/Disk50/workGit/test
+SHELL=/bin/bash
+SHELLOPTS=braceexpand:emacs:hashall:histexpand:history:interactive-comments:monitor
+SHLVL=1
+SSH_AUTH_SOCK=/tmp/launch-Ep2hlj/Listeners
+TERM=xterm-256color
+TERM_PROGRAM=Apple_Terminal
+TERM_PROGRAM_VERSION=309
+TERM_SESSION_ID=0BD78B2A-DB97-4680-849B-BA395F14176D
+TEST=/Volumes/Disk50/workATest
+TMPDIR=/var/folders/jl/y9w85_3x6p9gbzp48_2w_4y00000gp/T/
+UID=502
+USER=programmer
+_=-al
+__CF_USER_TEXT_ENCODING=0x1F6:3:51
+job=/Volumes/Disk50
+update_terminal_cwd () 
+{ 
+    local SEARCH=' ';
+    local REPLACE='%20';
+    local PWD_URL="file://$HOSTNAME${PWD//$SEARCH/$REPLACE}";
+    printf '\e]7;%s\a' "$PWD_URL"
+}
